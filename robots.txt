@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tomzouvelos.github.io/tom-website/sitemap.xml
+Sitemap: https://homereno2.github.io/tomzouvelos-website/sitemap.xml
